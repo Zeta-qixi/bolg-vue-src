@@ -2,21 +2,22 @@
 
 <div>
   <navbar/>
-  <z-home/>
+  <router-view></router-view>
 </div>
 </template>
 
 <script>
 
 import Navbar from './components/NavbarBar.vue'
-import ZHome from './components/ZHome.vue'
+
+
 
 
 export default {
   name: 'App',
   components: {
     Navbar,
-    ZHome
+
   }
 }
 </script>
