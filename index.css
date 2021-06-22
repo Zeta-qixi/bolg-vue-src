@@ -1,16 +1,13 @@
 body{
   margin: 0;
   padding: 0;
+
 }
 
 a{
   text-decoration : none;
 }
-.inner-width{
 
-  padding: 0 40px;
-  margin: auto;
-}
 #app {
 
   font-family: sans-serif;

@@ -2,7 +2,7 @@
 
 <div>
   <navbar/>
-  <router-view></router-view>
+  <router-view class="main-router"></router-view>
 </div>
 </template>
 
